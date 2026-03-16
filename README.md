@@ -36,12 +36,12 @@
 ## 📊 إحصائيات GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Netricc&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netricc&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahawii&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Netricc&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahawii&theme=radical"/>
 </p>
 
 ---
