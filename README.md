@@ -1,49 +1,43 @@
-<h1 align="center">السلام عليكم ورحمة الله 🌟</h1>
-<h2 align="center">أنا نوار - مهندس برمجيات ومصمم واجهات</h2>
+<h1 align="center">Nawar Alsafadi</h1>
+<h2 align="center">Étudiant en Première Générale | Développeur Full Stack & Designer UI/UX</h2>
 
 <p align="center">
-  💻 أحب كتابة الكود <br/>
-  🎨 أصمم واجهات جذابة وسلسة <br/>
-  🚀 أتعلم باستمرار وأعمل على تطوير مهاراتي <br/>
-  موقعي : (https://nawar-portfolio.netlify.app/)
+  Passionné par le développement web, la cybersécurité et le design d’interfaces. <br/>
+  J’aime créer des solutions techniques efficaces et des expériences utilisateur intuitives.
 </p>
 
 ---
 
-## 🧠 أعمل حاليًا على:
-- تطوير واجهات باستخدام **Next.js** و**React**
-- العمل على مشاريع **UI/UX** لتصميم تجربة مستخدم احترافية
-- اعمل على لغات برمجة و انظمة اخرى (**C/C++**, **Arduino**, **Linux**)
+## 🛠️ Ce que je développe actuellement
+- Applications web modernes avec **Next.js**, **React** et **TypeScript**
+- Projets de design **UI/UX** centrés sur l’expérience utilisateur
+- Programmation bas niveau et systèmes (**C/C++**, **Linux**, **Arduino**)
 
-## 📫 تواصل معي:
-- ✉️ البريد الإلكتروني: [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
+## 📫 Me contacter
+- ✉️ **Email** : [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nawar-alsafadi)
-- 📷 [Instagram](https://www.instagram.com/al_khwarizmi_arabic/)
 - 🎥 [YouTube](https://www.youtube.com/@al-khwarizmi-arabic)
 
 ---
 
-## 🚀 المهارات
-
+## 🚀 Compétences
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,python,django,flask,c,cpp,arduino,linux,windows,macos" />
-</p>
-
-<p align="center"><b>🛡️ Hacking | 🧠 أنظمة تشغيل | 💻 بيئات متعددة</b></p>
-
----
-
-## 📊 إحصائيات GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahawii&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahawii&theme=radical"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,python,django,flask,c,cpp,arduino,linux,windows" />
 </p>
 
 ---
 
-<h3 align="center">شكراً لزيارتك، لا تنسَ ⭐ المستودع إذا أعجبك عملي!</h3>
+## 📊 Mes statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahawii&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=github_dark" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahawii&theme=github_dark"/>
+</p>
+
+---
+
+<p align="center">
+  Merci de votre visite ! N’hésitez pas à explorer mes projets et à laisser une ⭐ si vous les appréciez.
+</p>
