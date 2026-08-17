@@ -16,7 +16,7 @@
 ## 📫 Me contacter
 - ✉️ **Email** : [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nawar-alsafadi)
-- 🎥 [YouTube](https://www.youtube.com/@al-khwarizmi-arabic)
+
 
 ---
 
@@ -29,9 +29,6 @@
 
 ## 📊 Mes statistiques GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=github_dark)
-](https://profile-summary-for-github.com/user/rahawii)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahawii&show_icons=true&theme=github_dark" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=github_dark" height="180"/>
@@ -39,6 +36,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahawii&theme=github_dark"/>
 </p>
+
+[Plus D'info](https://profile-summary-for-github.com/user/rahawii)
 
 ---
 
