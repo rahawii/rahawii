@@ -29,7 +29,8 @@
 
 ## 📊 Mes statistiques GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=github_dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=github_dark)
+](https://profile-summary-for-github.com/user/rahawii)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahawii&show_icons=true&theme=github_dark" height="180"/>
