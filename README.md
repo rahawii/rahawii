@@ -30,10 +30,6 @@
 ## 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahawii&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahawii&layout=compact&theme=github_dark" height="180"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahawii&theme=github_dark"/>
 </p>
 
