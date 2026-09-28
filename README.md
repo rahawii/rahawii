@@ -1,17 +1,18 @@
 <h1 align="center">Nawar Alsafadi</h1>
-<h2 align="center">Étudiant en Première Générale | Développeur Full Stack & Designer UI/UX</h2>
+<h2 align="center">Étudiant en Términale Générale | Engénieur Système Linux et Cyber</h2>
 
 <p align="center">
-  Passionné par le développement web, la cybersécurité et le design d’interfaces. <br/>
+  Passionné par le développement web, la cybersécurité et système et le design d’interfaces UI/UX. <br/>
   J’aime créer des solutions techniques efficaces et des expériences utilisateur intuitives.
+  [[SiteWeb](https://www.linkedin.com/in/nawar-alsafadi)](https://nawar-portfolio.netlify.app/)
 </p>
 
 ---
 
 ## 🛠️ Ce que je développe actuellement
-- Applications web modernes avec **Next.js**, **React** et **TypeScript**
-- Projets de design **UI/UX** centrés sur l’expérience utilisateur
-- Programmation bas niveau et systèmes (**C/C++**, **Linux**, **Arduino**)
+- Applications web modernes avec **Next.js**, **React** et **TypeScript** en utilisant de design **UI/UX**
+- Programmation bas niveau et système(**C**, **Assembly (x86/ARM)**, **Linux**, **POSIX API**, **Linux Kernel**, **htop**)
+- la systeme-engineering de système embarqué (ARM) (**Ghidra**, **GDB**, **Firmware**)
 
 ## 📫 Me contacter
 - ✉️ **Email** : [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
