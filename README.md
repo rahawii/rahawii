@@ -4,7 +4,7 @@
 <p align="center">
   Passionné par le développement web, la cybersécurité et système et le design d’interfaces UI/UX. <br/>
   J’aime créer des solutions techniques efficaces et des expériences utilisateur intuitives.
-  [SiteWeb](https://www.linkedin.com/in/nawar-alsafadi)
+  [SiteWeb](https://nawar-portfolio.netlify.app)
 </p>
 
 ---
